@@ -5,3 +5,6 @@ This is Basic PWA Demo
 Create by: myho
 
 
+#Host with Firebase
+Create Firebase project
+Create Firebase project in Firebase console and add project to index.html:
